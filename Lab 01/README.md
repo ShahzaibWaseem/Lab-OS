@@ -1,5 +1,5 @@
 
-# Lab 1: Introduction to Linux
+# Lab 01: Introduction to Linux
 
 ## Tasks
 - Create a file name file1 using terminal; write some text in this file. Create another file name
